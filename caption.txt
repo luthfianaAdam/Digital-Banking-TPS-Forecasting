@@ -1,0 +1,1 @@
+Data dari grafik diatas adalah data transaction per second (TPS) dari Januari 2020 sampai Desember 2022. Data tersebut mengalami fluktuasi dengan tren yang cenderung meningkat dengan puncak pada akhir tahun 2022. Forecasting terhadap data tersebut dilakukan dengan menggunakan 65% training data dan 35% validation data. Model yang dihasilkan memiliki RMSE = 2.19 TPS.

@@ -1,0 +1,7 @@
+Pada zaman serba digital seperti sekarang ini, adanya digital bank adalah suatu kemajuan teknologi yang dapat mempermudah berbagai aktivitas khususnya untuk dunia perbankan. Salah satu keuntungan utama digital bank adalah kemudahan dalam mengakses layanannya
+
+Sesuai namanya, digital bank adalah kegiatan perbankan yang seluruhnya dilakukan secara digital atau melalui internet seperti internet banking, mobile banking, sms banking dan phone banking. Mulai dari awal pembukaan rekening tabungan hingga penutupannya dapat dilakukan secara online tanpa harus pergi ke kantor bank terkait. 
+
+Berdasarkan data Bank Indonesia (BI), sepanjang Desember 2022 jumlah transaksi digital banking dalam negri mencapai 831.5 juta transaksi yang artinya ada 320.79 transactions per second (TPS). Nilai itu mencakup berbagai transaksi digital banking atau perbankan digital sesuai klasifikasi Otoritas Jasa Keuangan (OJK), yakni internet banking, SMS/mobile banking, dan phone banking.
+
+Jika dirunut tiga tahun ke belakang, pada Januari 2020 jumlah transaksi perbankan digital secara nasional sudah tumbuh 249.5% atau hampir 2.5 kali nya dibanding Desember 2022. Untuk menangani traffic transaksi yg tumbuh dengan sangat cepat, kapasitas sistem dari digital banking itu sendiri juga harus ditingkatkan seiring berjalannya waktu guna mencegah terjadinya gangguan yang bisa mengakibatkan bank itu sendiri mengalami kerugian hingga ratusan juta bahkan miliaran.
