@@ -1,0 +1,3 @@
+Traffic yang diterima sistem digital banking semakin meningkat seiring bertumbuhnya jumlah transaksi dari tahun ke tahun. Kapasitas dari sistem harus diperhatikan guna mencegah gangguan pada layanan digital banking.
+
+Dengan model digital banking forecasting ini harapannya dapat mengantisipasi pertumbuhan traffic guna mencegah gangguan tersebut yang bisa berakibat kerugian hingga milyaran pada bank tersebut.
