@@ -1,0 +1,5 @@
+Traffic yang diterima sistem digital banking semakin meningkat seiring bertumbuhnya jumlah transaksi dari tahun ke tahun. Kapasitas dari sistem harus diperhatikan guna mencegah gangguan pada layanan digital banking yang bisa berakibat kerugian sebesar jutaan hingga milyaran pada bank tersebut.
+
+Dengan model digital banking forecasting ini harapannya dapat mengantisipasi pertumbuhan traffic guna menentukan kapasitas sistem yang sesuai dengan proyeksi TPS beberapa tahun kedepan sehingga cost yang dikeluarkan bisa lebih efisien.
+
+Melakukan performance testing pada aplikasi digital banking akan sangat membantu mengetahui kemampuan aplikasi menangani beban (TPS) yang diuji.
