@@ -45,7 +45,7 @@ predict_range = st.slider(
     step=1,
     value=12
 )
-result = future_predict(inputfile,modelname,predict_range)
+result = future_predict.future_predict(inputfile,modelname,predict_range)
 result = result.rename(columns={'tps': 'Train', 'predict': 'Prediction'})
 # st.write(result)
 result = result.melt('tanggal', var_name='data', value_name='tps')
