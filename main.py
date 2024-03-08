@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import altair as alt
-from future_predict import future_predict
+# from future_predict import future_predict
 import datetime
 
 df = pd.read_csv('result.csv')
