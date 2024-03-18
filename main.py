@@ -20,6 +20,7 @@ insight = open("textfile/insight.txt", "r")
 datasets = open("textfile/datasets.txt", "r")
 author = open("textfile/author.txt", "r")
 caption = [open("textfile/caption_datasets.txt", "r"), open("textfile/hariraya.txt", "r"), open("textfile/caption.txt", "r")]
+overview = [open("textfile/overview_dataset.txt", "r"), open("textfile/overview_seasonality.txt", "r"), open("textfile/overview_model.txt", "r")]
 
 # Remove delta arrow from st.metric
 st.write(
@@ -33,7 +34,7 @@ st.write(
     unsafe_allow_html=True,
 )
 
-st.title("Digital Banking TPS Forecasting")
+st.title("Digital Banking Transaction Forecasting (2019 - 2023)")
 
 # =====================================BACKGROUND=====================================
 st.header('Background')
@@ -142,6 +143,7 @@ with tab5:
         st.metric("Antarbank", value=f'{ib_antar/1000000:.2f}M', delta=f'{100*ib_antar/ib_total:.2f}%', delta_color="off")
 
 st.caption(caption[0].read())
+st.markdown(overview[0].read())
 
 # =====================================Seasonality=====================================
 st.subheader("Seasonality")
@@ -197,6 +199,7 @@ with tabB:
 
 
 st.caption(caption[1].read())
+st.markdown(overview[1].read())
 
 # =====================================FORECASTING MODEL=====================================
 st.subheader("LSTM Model")
@@ -235,8 +238,8 @@ with tabE:
     )
     st.altair_chart(line_chart, use_container_width=True)
 
-st.caption(caption[2].read())
-
+# st.caption(caption[2].read())
+st.markdown(overview[2].read())
 
 col1, col2 = st.columns([5,2])
 with col1:
@@ -250,3 +253,6 @@ with col2:
     # =====================================AUTHOR=====================================
     st.subheader('Author')
     st.markdown(author.read())
+
+st.subheader('Next Improvement')
+st.markdown(open("textfile/next_improvement.txt", "r").read())
