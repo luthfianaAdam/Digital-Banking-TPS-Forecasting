@@ -1,0 +1,1 @@
+Datasets ini diambil dari website resmi Bank Indonesia. Datasets yang digunakan adalah dataset jadi yang didapatkan dari sumber berikut: https://www.bi.go.id/id/statistik/ekonomi-keuangan/spip/Pages/SPIP-Mei-2023.aspx

@@ -1,0 +1,4 @@
+Grafik diatas berisi data jumlah transaksi yang sudah diubah menjadi transaction per second (TPS). Data tersebut mengalami fluktuasi dengan tren yang cenderung meningkat dengan puncak pada akhir tahun 2022. Forecasting terhadap data tersebut dilakukan dengan menggunakan Algoritma LSTM (Long Short Term Memory) dengan 70% training data, 10% validation data dan 20% test data. Model yang dihasilkan memiliki RMSE sebagai berikut.
+- Training: RMSE: 16.25 TPS
+- Validation: 16.09 TPS
+- Testing: 19.70 TPS
