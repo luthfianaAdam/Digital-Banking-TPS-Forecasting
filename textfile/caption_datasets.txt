@@ -1,1 +1,3 @@
-asddsadasdasdasdasd
+Note:
+- Data dari bulan 2019-01 sampai 2021-07 tidak ada breakdown transaction type (Pembelian/Pembayaran, Intrabank, Antarbank)
+- Data dari 2021-03 drop menjadi under 10 ribu transaksi dan tiba tiba terjadi spike pada bulan 2022-02. Data phone banking dari 2021-03 tidak bisa digunakan karena anomali tersebut ada kemungkinan terjadi kesalahan pada saat input data.
