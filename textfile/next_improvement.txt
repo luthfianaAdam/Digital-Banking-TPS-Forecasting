@@ -1,0 +1,1 @@
+Membut Synthetic Data dari data real (monthly) menjadi data daily untuk re-train model agar model mempunyai datasets yang lebih banyak dan harapannya akan improve model accuracy.

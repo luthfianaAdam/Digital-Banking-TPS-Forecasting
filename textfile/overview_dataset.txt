@@ -1,0 +1,3 @@
+- Metode transaksi yang paling banyak digunakan adalah SMS/Mobile Banking yaitu sebesar 77.66% dari total transaksi dari 2019-01 sampai 2023-12
+- Tipe transaksi yang paling banyak digunakan adalah Intrabank yaitu sebesar 66.05% dari total transaksi dari 2019-01 sampai 2023-12
+- Selama 5 bulan terakhir transaksi pembayaran/pembelian di internet banking menurun sedangkan di mobile banking meningkat. Hal ini terjadi karena kemungkinan pengguna internet banking mayoritas sudah pindah ke mobile banking untuk melakukan transaksi pembayaran/pembelian.

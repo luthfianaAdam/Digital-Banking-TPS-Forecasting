@@ -1,0 +1,2 @@
+- Secara overall, jumlah transaksi pada transisi Q4 ke Q1 tahun berikutnya tidak berubah drastis dibanding dengan jumlah transaksi pada transisi Q1 ke Q4
+- Event seperti hari raya Lebaran dan Imlek tidak berpengaruh besar terhadap TPS jika dilihat secara monthly.
